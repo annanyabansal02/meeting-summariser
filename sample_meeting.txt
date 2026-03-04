@@ -1,0 +1,38 @@
+Meeting: Q4 Product Planning
+Date: March 5, 2026
+Attendees: Sarah (PM), John (Engineering Lead), Priya (Design), Mike (Marketing)
+
+Sarah: Okay let's get started. We need to finalise the Q4 roadmap today. 
+John, can you give us an update on the backend infrastructure?
+
+John: Sure. We've completed 80% of the API migration. The remaining 20% 
+should be done by end of next week. We did hit some issues with the 
+database scaling but Rahul is handling that.
+
+Sarah: Great. So the action item there is John to complete API migration 
+by March 15th and Rahul to resolve database scaling issues by March 12th.
+
+Priya: From the design side, the new dashboard mockups are ready for review. 
+I need feedback from the team by Friday so I can finalise them next week.
+
+Mike: Marketing campaign for Q4 launch is 60% ready. We need the final 
+feature list from Sarah by March 10th to complete the campaign materials.
+
+Sarah: Noted. I'll send the feature list by March 10th. 
+
+John: We also need to decide on the tech stack for the new mobile app. 
+I recommend React Native for cross platform support.
+
+Sarah: Let's go with React Native then. That's decided.
+
+Mike: I also think we should increase our social media budget by 20% 
+for the Q4 campaign given last quarter's results.
+
+Sarah: Agreed, that's approved.
+
+Priya: One more thing — we need to schedule user testing sessions 
+for the new dashboard. I'm thinking two sessions in the last week of March.
+
+Sarah: Perfect. Priya to organise user testing sessions by March 25th.
+
+Sarah: Okay I think that covers everything. Let's wrap up.

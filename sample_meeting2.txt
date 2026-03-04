@@ -1,0 +1,38 @@
+Meeting: HR Quarterly Review
+Date: March 5, 2026
+Attendees: Priya (HR Head), Sameer (Talent Acquisition), 
+Anita (L&D), Vikram (Finance)
+
+Priya: Let's review our Q1 HR metrics and plan for Q2. 
+Sameer, how are we doing on hiring?
+
+Sameer: We hired 45 people in Q1 against a target of 50. 
+5 positions are still open — 3 engineers and 2 sales roles.
+I need the updated job descriptions from team leads by March 10th.
+
+Priya: Noted. I'll follow up with team leads today. 
+Sameer to close all 5 positions by April 15th.
+
+Anita: Training completion rate is at 78% against our 85% target. 
+Main gap is the new product training module which isn't ready yet.
+
+Priya: Anita please complete the product training module by March 20th 
+and get completion rate to 85% by end of Q2.
+
+Vikram: HR budget utilisation is at 82% for Q1 which is good. 
+However, we need to decide on the annual offsite budget.
+
+Priya: Let's allocate 15 lakhs for the annual offsite. 
+Vikram to confirm budget availability by March 12th.
+
+Sameer: We also need to decide on the new ATS system. 
+I recommend Greenhouse over Workday for our size.
+
+Priya: Agreed, we go with Greenhouse. Sameer to initiate 
+procurement process by March 15th.
+
+Anita: One more thing — employee satisfaction survey results 
+show 72% satisfaction. Main concerns are work life balance and growth opportunities.
+
+Priya: Let's form a task force to address these concerns. 
+Anita to present an action plan by March 25th.
