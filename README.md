@@ -6,6 +6,9 @@ transcripts into structured summaries, action items, and decisions.
 ## 📺 Demo
 ![Demo](demo.gif)
 
+## 📸 Sample Output
+![Final Result](final_result.png)
+
 ## ✨ Features
 - Upload audio files (MP3, WAV, M4A) or text transcripts
 - Auto transcription using OpenAI Whisper
